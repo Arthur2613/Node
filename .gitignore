@@ -1,10 +1,7 @@
-# Ignore all files in node_modules for frontend
 node_modules/
 
-# Ignore all files in target for backend
 target/
 
-# Optional: Ignore system-specific files
 .DS_Store
 Thumbs.db
 
